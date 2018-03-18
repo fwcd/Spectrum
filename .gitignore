@@ -1,0 +1,6 @@
+.settings/
+.classpath
+.idea/
+.project
+bin/
+.pydevproject
